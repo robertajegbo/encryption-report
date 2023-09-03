@@ -1,2 +1,2 @@
 # encryption-report
-Illustrated some of the benefits of implementing encryption techniques and approaches to protect data.
+The goal of this report was to assume the role of Cyber Security manager for a company and explain to the board and staff; the benefits to using various techniques and approaches for protecting company's emplpyees and information. The techniques used in the report include implementation of strong passwords, password expiration policies, multi factor authentication (MFA), email certificates, VPN IPSec, and cryptografied disks to protect portable devices.
